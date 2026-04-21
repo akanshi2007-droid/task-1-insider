@@ -12,6 +12,8 @@ The project demonstrates a clean UI structure with multiple pages and reusable c
 # Dashboard page
 <img width="1883" height="911" alt="image" src="https://github.com/user-attachments/assets/5d4ef80b-f7fa-483c-91a3-a8521c0f5b57" />
 
+# Deployed link-https://mini-design-editor-6vcu-54qzv3ezq-akanshi2007-droids-projects.vercel.app/
+
 ## Tech Stack
 1.React
 2.Vite
