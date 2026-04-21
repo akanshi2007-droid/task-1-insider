@@ -4,13 +4,13 @@ The project demonstrates a clean UI structure with multiple pages and reusable c
 
 # Preview
 # Landing page
-<img width="1881" height="915" alt="Screenshot 2026-04-22 020544" src="https://github.com/user-attachments/assets/21370c75-58ef-40d8-9869-109f4ac25ebc" />
+<img width="1881" height="915" alt="Screenshot 2026-04-22 020544" src="https://github.com/user-attachments/assets/4271df35-97c9-4e06-a8bb-6a624bef891a" />
 
 # Authorization page
-<img width="1890" height="897" alt="Screenshot 2026-04-22 021625" src="https://github.com/user-attachments/assets/67a3796f-cbe2-44bb-acc7-8ffcd501f4a1" />
+<img width="1890" height="897" alt="Screenshot 2026-04-22 021625" src="https://github.com/user-attachments/assets/5b9b3c4e-7dd6-411c-a187-98cd4f187048" />
 
 # Dashboard page
-<img width="1883" height="911" alt="image" src="https://github.com/user-attachments/assets/5d4ef80b-f7fa-483c-91a3-a8521c0f5b57" />
+<img width="1883" height="911" alt="Screenshot 2026-04-22 020657" src="https://github.com/user-attachments/assets/812617a7-8590-46e5-afe1-786bbae67ac9" />
 
 # Deployed link-https://mini-design-editor-6vcu-54qzv3ezq-akanshi2007-droids-projects.vercel.app/
 
