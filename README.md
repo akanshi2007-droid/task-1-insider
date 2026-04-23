@@ -1,4 +1,4 @@
-# Task 1 – Frontend
+# Task 1 - Frontend
 A responsive frontend web application built using React,Vite and Tailwind CSS.
 The project demonstrates a clean UI structure with multiple pages and reusable components.
 
